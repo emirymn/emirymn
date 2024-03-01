@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirymn&theme=dark" alt="emirymn" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirymn&show_icons=true&theme=dark&locale=en&layout=compact" alt="emirymn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirymn&show_icons=true&theme=dark&locale=en&layout=compact" alt="emirymn" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/emirymn/emirymn/blob/output/github-contribution-grid-snake.gif)
