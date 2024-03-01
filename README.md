@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirymn&theme=dark" alt="emirymn" /></p>
 
-![snake gif](https://github.com/emirymn/emirymn/blob/output/github-contribution-grid-snake.gif)
+
