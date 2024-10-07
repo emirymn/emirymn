@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFI7XKHjbKWWg/profile-displaybackgroundimage-shrink_350_1400/0/1692983278633?e=1714608000&v=beta&t=dAnb4vZlAkWYocuagdOkv0JXSB1xog4Q1rqU2robRdQ)
+<!-- ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFI7XKHjbKWWg/profile-displaybackgroundimage-shrink_350_1400/0/1692983278633?e=1714608000&v=beta&t=dAnb4vZlAkWYocuagdOkv0JXSB1xog4Q1rqU2robRdQ) -->
 <h1 align="center">Hi 👋, I'm Emirhan YAMAN</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
