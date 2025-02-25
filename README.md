@@ -18,6 +18,7 @@
 <a href="https://stackoverflow.com/users/23508873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23508873" height="30" width="40" /></a>
 <a href="https://instagram.com/emir.yaman57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emir.yaman57" height="30" width="40" /></a>
 <a href="https://discord.gg/Jg2fG7QUYW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jg2fG7QUYW" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/nachox" target="blank"><img align="center" src="https://brandfetch.com/tryhackme.com?view=library&library=default&collection=logos&asset=idSCH2mpBj&utm_source=https%253A%252F%252Fbrandfetch.com%252Ftryhackme.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Jg2fG7QUYW" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
