@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirymn&label=Profile%20views&color=0e75b6&style=flat" alt="emirymn" /> </p>
 
-- 🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on **SOC Analyst** **Unity**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **SOC Analyst at Cyber Security**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity** **Network** **Pentesting**
 
 - 📫 How to reach me **emiryamandev@gmail.com**
 
